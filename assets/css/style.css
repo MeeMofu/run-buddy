@@ -217,7 +217,6 @@ section{
     text-align: center;
     background-color: #024e76;
     color: #39a6b2;
-    overflow: auto;
     margin: 0 auto 30px auto;
   }
 
@@ -230,7 +229,7 @@ section{
     height: 400px;
   }
   
-  .contact-info div {
+  .contact {
     width: 410px;
     display: inline-block;
     vertical-align: top;
